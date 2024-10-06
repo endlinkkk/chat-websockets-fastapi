@@ -1,0 +1,3 @@
+chat-websockets
+
+A simple example of a chat [sqlalchemy+fastapi]
